@@ -1,0 +1,5 @@
+{
+  "name": "AI Assessment Generator",
+  "description": "Generate educational assessments on any topic using AI. Choose the question type, specify the number of questions, and instantly create quizzes for study or teaching.",
+  "requestFramePermissions": []
+}
